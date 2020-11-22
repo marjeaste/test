@@ -1,0 +1,1 @@
+ID-сервера      MAC1      IP1ID-сервера      MAC1      IPnID-сервера      MAC2      IP1ID-сервера      MAC2      IPnID-сервера      MACn      IP1ID-сервера      MACn      IPn
